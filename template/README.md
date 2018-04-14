@@ -1,4 +1,4 @@
-![splash-image](https://github.com/Ensibuuko/vue-bootstrap/blob/master/src/assets/github/screen-shot.png)
+![splash-image](https://github.com/Ensibuuko/vue-bootstrap-template/blob/develop/template/src/assets/github/screen-shot.png)
 ## Vue Bootstrap Webpack Started
 Based on the webpack-simple template for vue-cli.
 
@@ -16,7 +16,7 @@ Make the changes you you want to make and pull request it.
 ## Usage
 ### Creating your project
 For now clone the repository and perform the `constribution setup`.
-<!-- Make sure you have `vue-cli` and `vue-init` installed.
+Make sure you have `vue-cli` and `vue-init` installed.
 
 ```bash
 $ npm install -g @vue/cli
@@ -25,8 +25,12 @@ $ npm install -g @vue/cli-init
 In your terminal prompt, this will use the lates version of the template.
 
 ```bash
-$ vue init Ensibuuko/vue-bootstrap my-project-name
-``` -->
+$ vue init ensibuuko/vue-bootstrap-template your-project-name
+```
+To use the development branch
+```bash
+$ vue init ensibuuko/vue-bootstrap-template#develop your-project-name
+```
 
 The style sass file has been customized to demonstrate how you can use it
 to style your website colors according to your needs.
@@ -35,6 +39,6 @@ All customizations goes into 'styles/custom.scss file.'
 ## Roadmap
 Contributions are welcome for addition of these. This could grow out to be starter
 for a webapp but lets see where it all takes us.
-- Webpack template installable with `vue init `.
-- Vue Router
-- Vuex
+[x] Webpack template installable with `vue init `.
+[ ] Vue Router setup
+[ ] Vuex setup
