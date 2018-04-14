@@ -2,7 +2,7 @@
   "name": "vue-cli-template-webpack",
   "version": "1.3.1",
   "license": "MIT",
-  "description": "A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.",
+  "description": "A full-featured Webpack setup with hot-reload.",
   "scripts": {
     "docs": "cd docs && gitbook serve",
     "docs:deploy": "bash ./deploy-docs.sh"
