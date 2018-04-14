@@ -3,7 +3,8 @@
 Based on the webpack-simple template for vue-cli.
 
 ## Contribution Setup
-Clone this repository and change to the directory
+Clone this repository and change to the directory of the template,
+make your changes, add a feature, improve a styling, whatever. PR it then.
 ```bash
 # Install dependencies
 npm install
