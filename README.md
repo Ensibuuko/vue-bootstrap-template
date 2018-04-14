@@ -39,6 +39,6 @@ All customizations goes into 'styles/custom.scss file.'
 ## Roadmap
 Contributions are welcome for addition of these. This could grow out to be starter
 for a webapp but lets see where it all takes us.
-[x] Webpack template installable with `vue init `.
-[ ] Vue Router setup
-[ ] Vuex setup
+- [x] Webpack template installable with `vue init `.
+- [ ] Vue Router setup
+- [ ] Vuex setup
