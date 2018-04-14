@@ -1,8 +1,8 @@
 {
-  "name": "vue-bootstrap-template",
-  "description": "A full-featured Webpack setup with hot-reload.",
+  "name": "{{ name }}",
+  "description": "{{ description }} Built on a full-featured Webpack setup with hot-reload.",
   "version": "0.0.1",
-  "author": "Mwaka Ambrose <ambrose@ensibuuko.com>",
+  "author": "{{ author }} initially Mwaka Ambrose <ambrose@ensibuuko.com>",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
